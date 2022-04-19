@@ -1,4 +1,5 @@
 # PictureInPicture in Android (Kotlin)
+Picture in picture allows you to multitask.Picture in picture is a nice feature for heavy multitaskers who jump from app to app
 
 ## Introduction
 
