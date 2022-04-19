@@ -8,3 +8,11 @@ To enable pip in your activity you can , Inline `set android:supportsPictureInPi
 ## Pre-requisites
 - Android SDK 26
 - Android Build Tools v26.0.2
+
+## Project Created & Maintained By
+[MultiQoS Pvt. Ltd.](https://multiqos.com/)
+
+## Demo
+
+https://user-images.githubusercontent.com/103997982/163989805-ddcd2278-7b17-45f9-96ec-3cac62c004f7.mp4
+
