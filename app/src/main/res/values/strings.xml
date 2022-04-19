@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PipDemo</string>
+    <!--Labels-->
+    <string name="label_play">Play</string>
+    <string name="label_previous">Previous</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_next">Next</string>
+
+    <!--Dummy content-->
+    <string name="dummy_video_url">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</string>
+</resources>
